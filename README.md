@@ -6,3 +6,4 @@ This is fully working blog application in which the backend and frontend is used
 )
 
 ![alt_text](https://github.com/AnukalpParihar/Blog-Application-MERN/blob/main/Screenshot%20(5).png)
+ 
